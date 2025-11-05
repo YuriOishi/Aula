@@ -1,5 +1,6 @@
 # Aula
 
+```json
 {
   "dependencies": {
     "expo-status-bar": "~3.0.8",
@@ -13,3 +14,4 @@
     "@react-native-async-storage/async-storage": "2.2.0"
   }
 }
+```
